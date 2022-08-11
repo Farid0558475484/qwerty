@@ -1,0 +1,2 @@
+/Users/xamyak/Desktop/homework111/homework111/obj/Debug/homework111.csproj.AssemblyReference.cache
+/Users/xamyak/Desktop/homework111/homework111/obj/Debug/homework111.csproj.CoreCompileInputs.cache
